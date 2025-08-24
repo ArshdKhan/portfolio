@@ -52,9 +52,3 @@ This is the source code for my **personal portfolio**, built with the latest web
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-
----
-
-👉 Do you want me to also add a **ready-made `LICENSE` file (MIT)** and a **`vercel.json` config** so it’s 100% production-ready, or keep it minimal for now?
